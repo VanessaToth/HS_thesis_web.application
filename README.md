@@ -23,18 +23,16 @@ An e-learning web platform built as a high school graduation thesis (Atestat Inf
 
 ##  Project Structure
 
-- sociologia-somnului-web/
-├── index.html            # Main landing page (formerly startpage.html)
-├── startpage.css         # Global stylesheet
-├── pag1.html             # Module 1: Definition & Importance
-├── pag2.html             # Module 2: Sleep Duration & Purpose
-├── pag3.html             # Module 3: Historical Phenomena & Case Studies
-├── pag4.html             # Module 4: Somnology & Medical Specialties
-├── pag5.html             # Module 5: Health Benefits & Sleep Disorders
-├── quiz.html             # Interactive evaluation test module (JavaScript)
-├── assets/
-│   └── creier.gif        # Fixed background GIF animation
-└── README.md             # Project documentation
+─ index.html            # Main landing page (formerly startpage.html)
+- startpage.css         # Global stylesheet
+─ pag1.html             # Module 1: Definition & Importance
+- pag2.html             # Module 2: Sleep Duration & Purpose
+- pag3.html             # Module 3: Historical Phenomena & Case Studies
+- pag4.html             # Module 4: Somnology & Medical Specialties
+- pag5.html             # Module 5: Health Benefits & Sleep Disorders
+- quiz.html             # Interactive evaluation test module (JavaScript)
+- creier.gif            # Fixed background GIF animation
+
 
 ##  How to Run Locally
 
